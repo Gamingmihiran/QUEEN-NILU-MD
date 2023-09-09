@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;c7xyFRbD#3dVHsksO0WJNVNa9Yl_S4WOm9QePfIdDyicot2VTJJU' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://heshan_bot_user:OH0eZ0Zwi3OmZxUkzNpRI9IXdTQNxjwN@dpg-cjtkufnhdsdc73calke0-a.frankfurt-postgres.render.com/heshan_bot'
 
 
 
@@ -25,7 +25,7 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Heshan'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -45,17 +45,17 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Heshan 😇' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'King Heshan 2023'
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'Heshan_X  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fwhatsapp-black-logo-icon--24.png&tbnid=9AJTdErL3yMznM&vet=12ahUKEwiTqau0zpyBAxW1yKACHedeBf4QMygCegUIARCfAQ..i&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F3953&docid=GDThtm49bYf7OM&w=512&h=512&q=whatsapp%20black&client=ms-android-samsung-gj-rev1&ved=2ahUKEwiTqau0zpyBAxW1yKACHedeBf4QMygCegUIARCfAQ' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/CjrsqEmuNrd45EAsdRM4XI' // ur group link
 
 
 /* 18 + Download Settings */
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: Unknown" //ur yt chanel name
+global.socialm = "GitHub: Unknown" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
 
